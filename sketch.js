@@ -2,7 +2,6 @@
 function setup() {
   createCanvas(1250, 500);
 }
-5+5-5X5/5, add today's date
 function draw() {
     background(1,2, 3);
   var xx = mouseX;
